@@ -1,0 +1,3 @@
+out "Hello Java"
+out "Hey Jhon"
+out "Gays"
